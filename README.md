@@ -1,2 +1,3 @@
 # Simpson-s-paradox
- an analysis of Simpson's paradox example dataset
+ an analysis of a Simpson's paradox example dataset
+
